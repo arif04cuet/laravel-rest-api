@@ -4,7 +4,7 @@
 ## Installation
 Clone the repo locally:
 ```
-git clone https://github.com/arif04cuet/laravel-rest-api rest-api
+git clone https://github.com/arif04cuet/laravel-rest-api.git rest-api
 
 cd rest-api
 
